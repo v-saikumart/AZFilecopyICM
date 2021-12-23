@@ -1,0 +1,4 @@
+
+
+
+(Get-AzStorageAccount -Name azmystrgaccntthree -ResourceGroupName firstgroup).MinimumTlsVersion
